@@ -1,6 +1,6 @@
 # 颜色方块
 
-这是一个方块游戏。
+这是一个方块游戏。  
 [游戏](https://yufeixian.github.io/Color_Block_SCV/)
 
 二维码：
