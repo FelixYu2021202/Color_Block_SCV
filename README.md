@@ -1,1 +1,9 @@
+# 颜色方块
 
+这是一个方块游戏。
+[游戏](https://yufeixian.github.io/Color_Block_SCV/)
+
+二维码：
+
+[二维码](https://yufeixian.github.io/Color_Block_SCV/img/QRCode.png)
+![](https://yufeixian.github.io/Color_Block_SCV/img/QRCode.png)
