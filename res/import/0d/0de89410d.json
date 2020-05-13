@@ -1,0 +1,1 @@
+[{"__type__":"cc.ImageAsset","content":{"fmt":"0","w":16,"h":16}},{"__type__":"cc.SpriteFrame","content":{"image":"128694d93","name":"startbutton","rect":{"x":3,"y":3,"width":10,"height":10},"offset":{"x":0,"y":0},"originalSize":{"width":10,"height":10},"rotated":false,"capInsets":[3,3,3,3]}}]
